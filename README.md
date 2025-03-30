@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 # Selected Projects
 
 ## [Text Classification with Siamese Network](https://github.com/OdedMous/Medical-Text-Classification) 
+![pic](https://github.com/OdedMous/Medical-Transcriptions-Classification/blob/main/images/Medical_Transcription.jpg?raw=true)
+
 #### Developed an NLP classifier for detecting medical domains in texts using a Siamese Neural Network
 
 
