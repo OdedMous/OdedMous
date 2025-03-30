@@ -1,6 +1,6 @@
 # About 👋
 
-Hi there ! I'm an AI Researcher, interested 
+Hi there ! I’m an AI researcher, exploring the past to shape a smarter future.
 
 # Selected Projects
 
