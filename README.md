@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Selected Projects
+
+## [Text Classification with Siamese Network](https://github.com/OdedMous/Medical-Text-Classification) 
+#### Developed an NLP classifier for detecting medical domains in texts using a Siamese Neural Network
+
+
+# Blogs
