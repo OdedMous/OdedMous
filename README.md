@@ -16,7 +16,7 @@ The approach involves training a simple classifier with a smart representation f
 
 ## [Cross-Task Learning for Low-Resource NLP](https://github.com/OdedMous/Cross-Task-Learning-for-Low-Resource-NLP) 
 
-<img align="right"  src="https://github.com/NivAm12/Enhancing-By-Subtasks-Components/assets/68702877/d672ae7a-e7ee-4443-88d7-3b8481e225ad" width="250" height="150" />
+<img align="right"  src="https://github.com/NivAm12/Enhancing-By-Subtasks-Components/assets/68702877/d672ae7a-e7ee-4443-88d7-3b8481e225ad" width="270" height="200" />
 
 
 NLP models require large amounts of annotated data, which are often difficult to obtain, especially in specialized fields like medicine. 💊
