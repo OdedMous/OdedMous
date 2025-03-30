@@ -13,6 +13,10 @@ The approach involves training a simple classifier with a smart representation f
 
 
 ## [Cross-Task Learning for Low-Resource NLP](https://github.com/OdedMous/Cross-Task-Learning-for-Low-Resource-NLP) 
+
+<img align="right"  src="https://github.com/NivAm12/Enhancing-By-Subtasks-Components/assets/68702877/d672ae7a-e7ee-4443-88d7-3b8481e225ad" width="250" height="150" />
+
+
 NLP models require large amounts of annotated data, which are often difficult to obtain, especially in specialized fields like medicine. 💊
 
 To address this challenge, we propose a multi-head BERT-based architecture, trained simultaneously on a 'main task' (which has limited data) and 'supporting tasks' (which have abundant data), enabling cross-task knowledge transfer.
