@@ -2,7 +2,7 @@
 
 Hi there ! 👋
 
-I’m an AI researcher, exploring the past to shape a smarter future.
+I like to explore the past to shape a smarter future.
 
 # Selected Projects
 
@@ -28,7 +28,9 @@ This approach is inspired by how humans generalize knowledge across different do
 
 ## [Differentially Private Decoding in LLMs](https://github.com/OdedMous/DP-Decoding-in-LLM) 
 
-<img align="right"  src="https://github.com/user-attachments/assets/2a6e95dd-de21-490f-a894-08091ee3d895" width="250" height="150" />
+
+<img align="right"  src="https://github.com/user-attachments/assets/b3feb560-a025-4344-82d6-39c79814e5b8" width="250" height="200" />
+
 
 
 Large Language Models are pre-trained on vast public data collected from the Internet, which likely contains private or sensitive information. Combined with the fact that large models tend to memorize training data, this scenario poses a potential risk of data leakage. 🔓
@@ -44,7 +46,7 @@ In this project, I reimplemented a decoding method that ensures privacy with hig
 
 ## [BERxiT: Early Exiting for BERT](https://towardsdatascience.com/berxit-early-exiting-for-bert-6f76b2f561c5/) 
 
-<img align="right" src="https://github.com/user-attachments/assets/d840ec3c-b08e-4b76-a7ee-cf93728d8f3e" width="250" height="150" />
+<img align="right" src="https://github.com/user-attachments/assets/d840ec3c-b08e-4b76-a7ee-cf93728d8f3e" width="250" height="200" />
 
 Fast inference time is crucial for deep learning models that are deployed on resource-constrained devices, for providing real-time responses to user requests, and for cost and sustainability reasons. 🌿
 
