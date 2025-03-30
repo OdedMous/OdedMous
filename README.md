@@ -1,6 +1,6 @@
-# Hi there 👋
+# About 👋
 
-
+Hi there ! I'm an AI Researcher, interested 
 
 # Selected Projects
 
