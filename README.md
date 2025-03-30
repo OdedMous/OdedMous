@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 # Selected Projects
 
-## [Text Classification with Siamese Network](https://github.com/OdedMous/Medical-Text-Classification) 
+## [Text Classification using Siamese Network](https://github.com/OdedMous/Medical-Text-Classification) 
 In this project, I developed an NLP classifier for detecting medical domains in texts using a Siamese Neural Network.
 
 <img src="https://github.com/OdedMous/Medical-Transcriptions-Classification/blob/main/images/Medical_Transcription.jpg" width="500" height="250" />
 
 
 ## [Cross-Task Learning for Low-Resource NLP](https://github.com/OdedMous/Cross-Task-Learning-for-Low-Resource-NLP) 
-Humans generalize knowledge across different domains. For example, learning to play the piano enhances hand-eye coordination, which can improve skills in other activities like basketball. Inspired by this, we propose an approach to address the problem of a shortage of annotated data in specialized NLP tasks, such as medicine. We propose a multi-head BERT-based model, which is trained simultaneously on both the main task and supporting tasks, in order to perform cross-task knowledge transfer.
+NLP models require large amounts of annotated data, which are often difficult to obtain, especially in specialized fields like medicine. To address this challenge, we propose a multi-head BERT-based architecture, trained simultaneously on a 'main task' (which has limited data) and 'supporting tasks' (which have abundant data), enabling cross-task knowledge transfer.
 
-NLP models are hungry for annotated data, which are often costly and difficult to obtain, especially in specialized fields like medicine. To tackle this problem, we propose training a model on both a primary NLP task and related “supporting tasks,” leveraging cross-task knowledge transfer. Unlike traditional multi-task learning, our approach is solely focused on improving the 
+This approach is inspired by how humans generalize knowledge across different domains. For example, learning to play the piano enhances hand-eye coordination, which can then improve performance in other activities, such as basketball.
 
 
 ## [Differentially Private Decoding in LLMs](https://github.com/OdedMous/DP-Decoding-in-LLM) 
