@@ -25,7 +25,7 @@ Large Language Models are pre-trained on vast public data collected from the Int
 In this project, I reimplemented a decoding method that ensures privacy with high probability, based on the paper "Differentially Private Decoding in Large Language Models" (Majmudar et al., 2022).
 
 
-<img src="https://github.com/user-attachments/assets/2a6e95dd-de21-490f-a894-08091ee3d895" width="500" height="250" />
+<img src="https://github.com/user-attachments/assets/2a6e95dd-de21-490f-a894-08091ee3d895" width="250" height="150" />
 
 
 
@@ -34,6 +34,11 @@ In this project, I reimplemented a decoding method that ensures privacy with hig
 
 ## [BERxiT: Early Exiting for BERT](https://towardsdatascience.com/berxit-early-exiting-for-bert-6f76b2f561c5/) 
 
+<img align="right" src="https://github.com/user-attachments/assets/d840ec3c-b08e-4b76-a7ee-cf93728d8f3e" width="250" height="150" />
+
 Fast inference time is crucial for deep learning models that are deployed on resource-constrained devices, for providing real-time responses to user requests, and for cost and sustainability reasons.
 
 In this blog I review the “early exiting” method, which improves inference time by allowing samples to exit at different depths within the network, potentially making many “easier” samples to exit early and thus avoiding unnecessary computations while still maintaining accuracy.
+
+
+
