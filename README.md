@@ -37,10 +37,18 @@ Large Language Models are pre-trained on vast public data collected from the Int
 
 In this project, I reimplemented a decoding method that ensures privacy with high probability, based on the paper "Differentially Private Decoding in Large Language Models" (Majmudar et al., 2022), and experimented on GPT-2 and ViLT (Vision-and-Language Transformer) models. 
 
+## [RL-based Agent for Sepsis Management](https://github.com/OdedMous/Sepsis-RL/tree/main) 
 
+<img align="right"  src="https://github.com/user-attachments/assets/3cc5d42c-d0a9-4bb3-b058-3d4fbf09f74f" width="250" height="200" />
 
+Sepsis is a life-threatening medical condition that can lead to organ failure and death without timely treatment in the Intensive Care Unit (ICU). Managing septic patients involves the administration of several medications, but there is no universal treatment policy due to patient variability and the complexity of the disease.
 
+In this project, I developed a Reinforcement Learning (RL)-based agent that adjusts medication doses based on real-time clinical information from patients.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 # Blogs
 
