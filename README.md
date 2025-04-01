@@ -6,7 +6,7 @@ I like to explore the past to shape a smarter future.
 
 # Selected Projects
 
-## [Text Classification using Siamese Network](https://github.com/OdedMous/Medical-Text-Classification) 
+## [Clinical Notes Classification using Siamese Network](https://github.com/OdedMous/Medical-Text-Classification) 
 <img align="right" src="https://github.com/OdedMous/Medical-Transcriptions-Classification/blob/main/images/Medical_Transcription.jpg" width="250" height="150" />
 
 In this project, I developed an NLP classifier for predicting medical domains in texts using a Siamese Neural Network.
