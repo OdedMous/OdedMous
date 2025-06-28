@@ -2,7 +2,6 @@
 
 Hi there ! 👋
 
-I like to explore the past to shape a smarter future.
 
 # Selected Projects
 
